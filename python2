@@ -10,5 +10,8 @@ def mult_list(numbers):
     return result
 
 #Write a Python function called rev_string() to reverse a string.
+def rev_string(s):
+    return s[::-1]
+
 
 #Write a Python function called num_within() to check whether a number falls in a given range.
